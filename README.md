@@ -12,10 +12,6 @@ Dibuat untuk responsi Praktikum Pemrograman Mobile (IF21507) oleh **Aisyah (H1D0
 |:-----------:|:-----------:|:------:|
 | ![Home List](screenshots/home_list.png) | ![Home Grid](screenshots/home_grid.png) | ![Detail](screenshots/detail.png) |
 
-| Loading | Error |
-|:-------:|:-----:|
-| ![Loading](screenshots/loading.png) | ![Error](screenshots/error.png) |
-
 > Letakkan file gambar di folder `screenshots/` pada root repository.
 
 ---
