@@ -12,8 +12,6 @@ Dibuat untuk responsi Praktikum Pemrograman Mobile (IF21507) oleh **Aisyah (H1D0
 |:-----------:|:-----------:|:------:|
 | ![Home List](screenshots/home_list.png) | ![Home Grid](screenshots/home_grid.png) | ![Detail](screenshots/detail.png) |
 
-> Letakkan file gambar di folder `screenshots/` pada root repository.
-
 ---
 
 ## Fitur
@@ -141,7 +139,7 @@ Pemanggilan API dibungkus `try-catch`, dan `CancellationException` dilempar ulan
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/<username>/<nama-repo>.git
+   git clone  https://github.com/AisyahNurSabrina/Responsi-1_Pemrograman-mobile
    ```
 2. Buka folder proyek di **Android Studio**.
 3. Tunggu proses **Gradle Sync** selesai.
